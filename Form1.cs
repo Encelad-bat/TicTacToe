@@ -74,7 +74,7 @@ namespace TicTacToe
         private void Form1_Load(object sender, System.EventArgs e)
         {
             this.Size = new Size(600, 600);
-            this.Text = "TicTacToe by Encelad";
+            this.Text = "TicTacToe";
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.TransparencyKey = Color.Black;
             int x = 0;
